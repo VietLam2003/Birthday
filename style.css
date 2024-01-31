@@ -143,4 +143,11 @@
     font-size: 14px;
     line-height: 30px;
   }
-  
+  .text {
+    font-size: 20px;
+    margin-top: 10px;
+    margin-left: 40px;
+  }
+  .audio {
+    margin-left: 20px ;
+  }
